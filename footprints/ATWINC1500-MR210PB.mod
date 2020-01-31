@@ -1,0 +1,290 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+XCVR_ATWINC1500-MR210PB
+$EndINDEX
+$MODULE XCVR_ATWINC1500-MR210PB
+Po 0 0 0 15 00000000 00000000 ~~
+Li XCVR_ATWINC1500-MR210PB
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -5.10056 -12.839 1.00109 1.00109 0 0.05 N V 21 "XCVR_ATWINC1500-MR210PB"
+T1 -4.56456 11.7868 1.001 1.001 0 0.05 N V 21 "VAL**"
+DP 0 0 0 0 4 0 23
+Dl 2.325 -2.75399
+Dl -1.35697 -2.75399
+Dl -1.35697 -6.43
+Dl 2.325 -6.43
+DP 0 0 0 0 4 0 19
+Dl 1.655 -3.42517
+Dl -0.686036 -3.42517
+Dl -0.686036 -5.76
+Dl 1.655 -5.76
+DS -7.365 -10.86 -7.365 10.86 0.127 27
+DS -7.365 10.86 7.365 10.86 0.127 27
+DS 7.365 10.86 7.365 -10.86 0.127 27
+DS 7.365 -10.86 -7.365 -10.86 0.127 27
+DS 7.365 2.614 7.365 10.86 0.127 21
+DS 7.365 10.86 -7.365 10.86 0.127 21
+DS -7.365 10.86 -7.365 4.652 0.127 21
+DS 7.365 -7.83 7.365 -10.86 0.127 21
+DS 7.365 -10.86 6.115 -10.86 0.127 21
+DS 4.815 -10.86 3.067 -10.86 0.127 21
+DS -5.345 -10.86 -7.365 -10.86 0.127 21
+DS -7.365 -10.86 -7.365 -8.84 0.127 21
+DS -7.365 -4.492 -7.365 -1.728 0.127 21
+DS -7.365 -0.428 -7.365 0.304 0.127 21
+DC -8.865 -8.19 -8.765 -8.19 0.2 21
+DS 7.615 11.11 -7.615 11.11 0.05 26
+DS -7.615 11.11 -7.615 4.652 0.05 26
+DS -7.615 4.652 -8.565 4.652 0.05 26
+DS -8.565 4.652 -8.565 -8.84 0.05 26
+DS -8.565 -8.84 -7.615 -8.84 0.05 26
+DS -7.615 -8.84 -7.615 -11.11 0.05 26
+DS -7.615 -11.11 -5.345 -11.11 0.05 26
+DS -5.345 -11.11 -5.345 -12.06 0.05 26
+DS -5.345 -12.06 6.115 -12.06 0.05 26
+DS 6.115 -12.06 6.115 -11.11 0.05 26
+DS 6.115 -11.11 7.615 -11.11 0.05 26
+DS 7.615 -11.11 7.615 -7.83 0.05 26
+DS 7.615 -7.83 8.565 -7.83 0.05 26
+DS 8.565 -7.83 8.565 2.614 0.05 26
+DS 8.565 2.614 7.615 2.614 0.05 26
+DS 7.615 2.614 7.615 11.11 0.05 26
+DC -6.865 -8.19 -6.765 -8.19 0.2 27
+$PAD
+Sh "1" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 -8.19
+$EndPAD
+$PAD
+Sh "2" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 -7.174
+$EndPAD
+$PAD
+Sh "3" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 -6.158
+$EndPAD
+$PAD
+Sh "4" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 -5.142
+$EndPAD
+$PAD
+Sh "5" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 -1.078
+$EndPAD
+$PAD
+Sh "6" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 0.954
+$EndPAD
+$PAD
+Sh "7" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 1.97
+$EndPAD
+$PAD
+Sh "8" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 2.986
+$EndPAD
+$PAD
+Sh "9" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.365 4.002
+$EndPAD
+$PAD
+Sh "10" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 1.964
+$EndPAD
+$PAD
+Sh "11" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 0.948
+$EndPAD
+$PAD
+Sh "12" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -0.068
+$EndPAD
+$PAD
+Sh "13" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -1.084
+$EndPAD
+$PAD
+Sh "14" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -2.1
+$EndPAD
+$PAD
+Sh "15" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -3.116
+$EndPAD
+$PAD
+Sh "16" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -4.132
+$EndPAD
+$PAD
+Sh "17" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -5.148
+$EndPAD
+$PAD
+Sh "18" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -6.164
+$EndPAD
+$PAD
+Sh "19" R 1.9 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.365 -7.18
+$EndPAD
+$PAD
+Sh "20" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.465 -10.86
+$EndPAD
+$PAD
+Sh "21" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.417 -10.86
+$EndPAD
+$PAD
+Sh "22" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.401 -10.86
+$EndPAD
+$PAD
+Sh "23" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.385 -10.86
+$EndPAD
+$PAD
+Sh "24" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.631 -10.86
+$EndPAD
+$PAD
+Sh "25" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.647 -10.86
+$EndPAD
+$PAD
+Sh "26" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.663 -10.86
+$EndPAD
+$PAD
+Sh "27" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.679 -10.86
+$EndPAD
+$PAD
+Sh "28" R 1.9 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.695 -10.86
+$EndPAD
+$PAD
+Sh "29" R 3.7 3.7 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.485 -4.59
+$EndPAD
+$EndMODULE XCVR_ATWINC1500-MR210PB
